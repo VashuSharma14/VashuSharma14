@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vashu Sharma</h1>
-<h3 align="center">A passionate frontend developer from India </h3>
-<img align="right" alt="Coding" width=" 400" height="300"src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=2000">
+<h3 align="center">A passionate Software Engineer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vashusharma14&label=Profile%20views&color=0e75b6&style=flat" alt="vashusharma14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **vashusharma091425@gmail.com**
 
+- ⚡ Fun fact **I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vashu sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vashu sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/vashu_s_h_a_r_m_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vashu_s_h_a_r_m_a_" height="30" width="40" /></a>
 </p>
 
